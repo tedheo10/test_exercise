@@ -1,3 +1,3 @@
 rou <- 30 
 wei <- 10 
-rou*wei
+erer <- 19
